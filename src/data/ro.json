@@ -1,0 +1,213 @@
+{
+    "header": {
+        "navMenu": {
+            "home": {
+                "id": 1,
+                "name": "acasa",
+                "url": "/"
+            },
+            "projects": {
+                "id": 2,
+                "name": "proiecte",
+                "url": "/projects"
+            },
+            "about-me": {
+                "id": 3,
+                "name": "despre-mine",
+                "url": "/about-me"
+            },
+            "contact": {
+                "id": 4,
+                "name": "contact",
+                "url": "/contact"
+            }
+        },
+        "languages": ["EN", "RU", "RO"]
+    },
+    "home": {
+        "welcomeSection": {
+            "intro": "Salut, sunt Dima.",
+            "jobTitle": "Dezvoltator Web",
+            "declaration": "<b>Oamenii te judecă</b> în 3 secunde. <br /> Creează o primă impresie puternică. <br /> Eu îți construiesc site-ul.",
+            "buttonText": "Contactează-mă!!",
+            "rightSidePrep": "În prezent lucrez la",
+            "rightSideJob": "Portofoliu"
+        },
+        "quoteSection": {
+            "quote": "\"Construiesc site-uri care transformă vizitatorii în clienți\"",
+            "author": "— Dima, Dezvoltator Web"
+        },
+        "projectsSection": {
+            "title": "proiecte",
+            "viewAll": "Vezi toate",
+            "projectsData": {
+                "project1": {
+                    "name":"Selector de haine", 
+                    "description": "Alege preferințele pentru produse."
+                },
+                "project2": {
+                    "name":"Aplicație Meteo", 
+                    "description": "Monitorizează vremea din orașul tău."
+                },
+                "project3": {
+                    "name":"Aplicație To Do", 
+                    "description": "Gestionează-ți sarcinile."
+                }
+            },
+            "buttonText": ["Live"]
+        },
+        "skillsSection": {
+            "title": "abilități",
+            "skill1": {
+                "name": "Limbaje",
+                "knowledges": ["JavaScript", "PHP", "Python"]
+            },
+            "skill2": {
+                "name": "Framework-uri",
+                "knowledges": ["React", "Laravel", "Node.js"]
+            },
+            "skill3": {
+                "name": "Unelte",
+                "knowledges": ["HTML", "CSS", "SASS"]
+            },
+            "skill4": {
+                "name": "Baze de date",
+                "knowledges": ["MySQL", "MongoDB"]
+            },
+            "skill5": {
+                "name": "Abilități soft",
+                "knowledges": ["Rezolvarea problemelor", "Lucru în echipă", "Comunicare"]
+            }
+        },
+        "aboutSection": {
+            "title": "despre-mine",
+            "question1": {
+                "question": "Cine ești?",
+                "answer": "Salut, mă numesc Dima! Sunt un dezvoltator web autodidact din Moldova."
+            },
+            "question2": {
+                "question": "Ce poți face?",
+                "answer": "Construiesc site-uri responsive de la zero și le transform în experiențe moderne și ușor de utilizat."
+            },
+            "question3": {
+                "question": "De cât timp construiești site-uri?",
+                "answer": "De peste un an sunt pasionat de transformarea ideilor în site-uri curate și eficiente. Am ajutat diferiți clienți să-și creeze prezența online și continui mereu să învăț cele mai noi tehnologii și unelte."
+            },
+            "buttonText": "Citește mai mult"
+        },
+        "contactSection": {
+            "title": "contact",
+            "contact": "Ai nevoie de ajutor pentru un proiect? Contactează-mă și hai să-l realizăm.",
+            "heading": "Scrie-mi aici"
+        }
+    },
+    "projects": {
+        "breadcrumbsSection": {
+            "title": "proiecte",
+            "description": "Lista proiectelor mele"
+        },
+        "worksSection": {
+            "title": "aplicații-complete",
+            "projectsData": {
+                "project1": {
+                    "name": "Panou de administrare",
+                    "description": "Controlul afacerii și analiză"
+                },
+                "project2": {
+                    "name": "Controlul afacerii și analiză",
+                    "description": "Portofoliu pentru firmă de avocatură"
+                },
+                "project3": {
+                    "name": "Filtrare elemente",
+                    "description": "Sistem de filtrare dinamică a conținutului"
+                },
+                "project4": {
+                    "name": "Selector de haine",
+                    "description": "Selector inteligent pentru articole vestimentare"
+                },
+                "project5": {
+                    "name": "Listă de sarcini",
+                    "description": "Instrument minimalist pentru gestionarea sarcinilor"
+                }
+            },
+            "buttonShowLess": "Arată mai puțin",
+            "buttonShowMore": "Arată mai mult"
+        },
+        "smallProjectsSection": {
+            "title": "proiecte-mici",
+            "projectsData": {
+                "project1": {
+                    "name": "Aplicație meteo",
+                    "description": "Monitorizează vremea actuală din orașul tău cu date în timp real"
+                },
+                "project2": {
+                    "name": "Ajutor pentru Durak",
+                    "description": "Ajutor sau ghid pentru a reține cărțile jucate în Durak"
+                },
+                "project3": {
+                    "name": "Joc de memorie",
+                    "description": "Joc care te obligă să-ți amintești ultima mișcare"
+                },
+                "project4": {
+                    "name": "Magazin de pantofi",
+                    "description": "Selectează numărul de produse și explorează pantofi cu caracteristici de alegere"
+                }
+            },
+            "buttonText": "Github",
+            "buttonShowLess": "Arată mai puțin",
+            "buttonShowMore": "Arată mai mult"
+        }
+    },
+    "about": {
+        "breadcrumbsSection": {
+            "title": "despre-mine",
+            "description": "Cine sunt eu?"
+        },
+        "aboutMeSection": {
+            "description": "Salut, sunt Dima! <br /><br /> Sunt un dezvoltator front-end autodidact din Moldova. Mă concentrez pe construirea de site-uri responsive de la zero și transformarea lor în experiențe web curate și prietenoase pentru utilizator. <br /><br /> Călătoria mea a fost despre dezvoltare — învăț JavaScript în profunzime, îmi perfecționez fluxul de lucru și vizez oportunități precum stagii sau poziții junior. Explorez constant unelte, framework-uri și bune practici pentru a rămâne în față și, într-o zi, să lansez propriul meu studio web."
+        },
+        "skillsSection": {
+            "title": "competențe",
+            "skillsData": {
+            "skill1": "Limbaje",
+            "skill2": "Altele",
+            "skill3": "Framework-uri",
+            "skill4": "Biblioteci",
+            "skill5": "Baze de date"
+            }
+        },
+        "funFactsSection": {
+            "title": "curiozități",
+            "funFactsData": {
+            "funFact1": "Locuiesc în Moldova, disponibil global",
+            "funFact2": "Merg la sală și nu sar ziua de picioare",
+            "funFact3": "<b>Utilizator de Mac</b>, dar nu un hipster cu cafea",
+            "funFact4": "Ochii se usucă de la lentile și lucrul la laptop",
+            "funFact5": "Filmul meu preferat este <b>Pulp Fiction</b>",
+            "funFact6": "19 ani, 188cm și <b>gata</b> să-ți construiesc site-ul",
+            "funFact7": "Am vizitat <b>Belgia</b>, <b>Franța</b> și <b>Italia</b>"
+            }
+        }
+    },
+    "contact": {
+        "breadcrumbsSection": {
+            "title": "contact",
+            "description": "Spune salut sau scrie-mi"
+        },
+        "contactSection": {
+            "title": "Încă te mai gândești? Ciudat, într-adevăr.",
+            "placeholdersData": {
+            "nameInput": "Nume",
+            "emailInput": "Email",
+            "titleInput": "Subiect",
+            "messageInput": "Mesaj",
+            "submitButton": "Trimite"
+            }
+        }
+    },
+    "footer": {
+    "title": "Full-Stack Developer.",
+    "heading": "Linkuri",
+    "copyright": "&copy; 2025. Creat de Dima."
+    }
+}

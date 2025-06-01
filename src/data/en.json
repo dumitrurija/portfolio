@@ -1,0 +1,213 @@
+{
+    "header": {
+        "navMenu": {
+            "home": {
+                "id": 1,
+                "name": "home",
+                "url": "/"
+            },
+            "projects": {
+                "id": 2,
+                "name": "projects",
+                "url": "/projects"
+            },
+            "about-me": {
+                "id": 3,
+                "name": "about-me",
+                "url": "/about-me"
+            },
+            "contact": {
+                "id": 4,
+                "name": "contact",
+                "url": "/contact"
+            }
+        },
+        "languages": ["EN", "RU", "RO"]
+    },
+    "home": {
+        "welcomeSection": {
+            "intro": "Hey, I'm Dima.", 
+            "jobTitle": "The Web Developer", 
+            "declaration": "<b>People judge</b> you in 3 seconds. <br /> Make your first impression count. <br /> I'll build your site.", 
+            "buttonText": "Contact me!!", 
+            "rightSidePrep": "Currently working on", 
+            "rightSideJob": "Portfolio"
+        },
+        "quoteSection": {
+            "quote": "\"Building Websites that turn visitors into customers\"",
+            "author": "— Dima, Web Dev"
+        },
+        "projectsSection": {
+            "title": "projects",
+            "viewAll": "View All",
+            "projectsData": {
+                "project1": {
+                    "name":"Clothes Selector", 
+                    "description": "Choose product preferences."
+                },
+                "project2": {
+                    "name":"Weather App", 
+                    "description": "Monitor your city weather."
+                },
+                "project3": {
+                    "name":"To Do App", 
+                    "description": "Manage your tasks."
+                }
+            },
+            "buttonText": ["Live"]
+        },
+        "skillsSection": {
+            "title": "skills",
+            "skill1": {
+                "name": "Languages",
+                "knowledges": ["JavaScript", "PHP", "Python"]
+            },
+            "skill2": {
+                "name": "Frameworks",
+                "knowledges": ["React", "Laravel", "Node.js"]
+            },
+            "skill3": {
+                "name": "Tools",
+                "knowledges": ["HTML", "CSS", "SASS"]
+            },
+            "skill4": {
+                "name": "Databases",
+                "knowledges": ["MySQL", "MongoDB"]
+            },
+            "skill5": {
+                "name": "Soft Skills",
+                "knowledges": ["Problem Solving", "Teamwork", "Communication"]
+            }
+        },
+        "aboutSection": {
+            "title": "about-me",
+            "question1": {
+                "question": "Who are you?",
+                "answer": "Hello, my name is Dima! I’m a self-taught web developer from Moldova."
+            },
+            "question2": {
+                "question": "What can you do?",
+                "answer": "I build responsive websites from scratch and turn them into modern, user-friendly online experiences."
+            },
+            "question3": {
+                "question": "For how long you've been building websites?",
+                "answer": "For over a year, I’ve been passionate about transforming ideas into clean, effective websites. I’ve helped different clients establish their online presence and always keep learning the latest technologies and tools to stay ahead."
+            },
+            "buttonText": "Read More"
+        },
+        "contactSection": {
+            "title": "contact",
+            "contact": "Need support on a project? Contact me and let’s make it happen.",
+            "heading": "Message me here"
+        }
+    },
+    "projects": {
+        "breadcrumbsSection": {
+            "title": "projects",
+            "description": "List of my projects"
+        },
+        "worksSection": {
+            "title": "complete-apps",
+            "projectsData": {
+                "project1": {
+                    "name": "Admin Dashboard",
+                    "description": "Business control and analytics"
+                },
+                "project2": {
+                    "name": "Business control and analytics",
+                    "description": "Law Firm Portfolio"
+                },
+                "project3": {
+                    "name": "Filter Elements",
+                    "description": "Dynamic content filtering system"
+                },
+                "project4": {
+                    "name": "Clothes Selector",
+                    "description": "Smart fashion item chooser"
+                },
+                "project5": {
+                    "name": "To Do List",
+                    "description": "Minimal task management tool"
+                }
+            },
+            "buttonShowLess": "Show less",
+            "buttonShowMore": "Show more"
+        },
+        "smallProjectsSection": {
+            "title": "small-projects",
+            "projectsData": {
+                "project1": {
+                    "name": "Weather App",
+                    "description": "Monitor the current weather in your city using real-time data"
+                },
+                "project2": {
+                    "name": "Durak Helper",
+                    "description": "Helper or guide to remember played cards in Durak"
+                },
+                "project3": {
+                    "name": "Memory Game",
+                    "description": "Game that obligates you to remember your last move"
+                },
+                "project4": {
+                    "name": "Shoe Shop",
+                    "description": "Select the number of products showcasing shoes with select features"
+                }
+            },
+            "buttonText": "Github",
+            "buttonShowLess": "Show less",
+            "buttonShowMore": "Show more"
+        }
+    },
+    "about": {
+        "breadcrumbsSection": {
+            "title": "about-me",
+            "description": "Who am I?"
+        },
+        "aboutMeSection": {
+            "description": "Hello, I'm Dima! <br /><br /> I'm a self-taught front-end developer based in Moldova. I focus on building responsive websites from scratch and turning them into clean, user-friendly web experiences. <br /><br /> My journey has been all about growth—learning JavaScript deeply, improving my development workflow, and aiming for opportunities like internships or junior roles. I'm constantly exploring new tools, frameworks, and best practices to stay ahead and one day launch my own web studio."
+        },
+        "skillsSection": {
+            "title": "skills",
+            "skillsData": {
+                "skill1": "Languages",
+                "skill2": "Other",
+                "skill3": "Frameworks",
+                "skill4": "Libraries",
+                "skill5": "Databases"
+            }
+        },
+        "funFactsSection": {
+            "title": "fun-facts",
+            "funFactsData": {
+                "funFact1": "Moldova-based, globally available",
+                "funFact2": "I go to the gym and never skip leg day",
+                "funFact3": "<b>Mac user</b>, but not a coffee hipster",
+                "funFact4": "Dry eyes from lenses and laptop work",
+                "funFact5": "My favorite movie is <b>Pulp Fiction</b>",
+                "funFact6": "19, 188cm, and <b>ready</b> to build your site",
+                "funFact7": "I visited <b>Belgium</b>, <b>France</b> and <b>Italy</b>"
+            }
+        }
+    },
+    "contact": {
+        "breadcrumbsSection": {
+            "title": "contact",
+            "description": "Say hi or reach out"
+        },
+        "contactSection": {
+            "title": "Still wondering about it? Strange indeed.",
+            "placeholdersData": {
+                "nameInput": "Name",
+                "emailInput": "Email",
+                "titleInput": "Title",
+                "messageInput": "Message",
+                "submitButton": "Submit"
+            }
+        }
+    },
+    "footer": {
+        "title": "Full-Stack Developer.",
+        "heading": "Links",
+        "copyright": "&copy; 2025. Made by Dima."
+    }
+}
